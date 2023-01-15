@@ -1,7 +1,5 @@
 # Classifier for Handwritten Hebrew Letters.
 
-# Autor: Itzhak Rahamim - 312202351.
-
 # Description:
     - This program was created as part of course 'Image processing and computer vision' (Homework no.3).
     - The program is using 'K-Nearest-Neighbor' algorithm to classify images of letters from HHD_0 dataset which consists of handwritten letters in Hebrew.
