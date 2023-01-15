@@ -15,6 +15,9 @@
         4. Test the model on the letters.
         5. Create reports (results and confusion matrix).
 
+# HHD Dataset
+    - Info about the dataset: [Click-Here](https://www.researchgate.net/publication/343880780_The_HHD_Dataset)
+
 # Environment:
     This program was created to be use in windows 11 OS.
     To use this program you requied:
